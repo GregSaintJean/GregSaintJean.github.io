@@ -1,0 +1,55 @@
+#ads{
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+
+#logo{
+    font-family: 'Lora', serif;
+    margin: auto;
+    text-align: center;
+    font-size: 35px;
+}
+
+#logo > img{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.message{
+    font-family: 'Lora', serif;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 40px;
+}
+
+#app_image{
+    margin-left: 150px;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+}
+
+#ad_message{
+    margin-top: 80px;
+}
+
+#app_store{
+    display: block;
+    width:40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#legal{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 40px;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+#twitter{
+    width:5%;
+    display: block;
+    margin: 0 auto;
+}
