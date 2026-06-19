@@ -1,12 +1,28 @@
-#name{
-    margin: 0 auto;
-    text-align: center;
-    margin-top: 200px;
-    font-size: 48px;
+body{
+    width: 100%;
+    margin: auto 0;
+    background-color: #fff;
 }
 
-#apps{
-    margin-top: 70px;
+header{
     text-align: center;
-    font-size: 30px;
+}
+
+header p{
+    color: #333;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#links{
+    padding-left: 50px;
+}
+
+#links ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#links ul h4{
+    margin-bottom: 10px;
 }
